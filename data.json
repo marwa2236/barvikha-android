@@ -37,21 +37,36 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
-"native_network_choice":"admob"
+"banner_network_choice":"unity", 
+"interstisial_network_choice":"unity", 
+"reward_network_choice":"unity",
+"native_network_choice":"unity"
   
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"The city of Barvikha comes alive with various events, festivals, and gatherings. These occasions offer players the chance to showcase their talents, engage in unique activities, and connect with both NPCs and other players in a festive atmosphere.
+
+",
+   "photo1":"https://iili.io/HDHwm0P.jpg"},
+  {"desc2":"The in-game economy is driven by player interactions. Players can engage in trade, craft goods, and manage businesses. The economic landscape evolves based on player choices, creating a dynamic environment where supply and demand play a crucial role.
+
+","photo2":"https://iili.io/HDHwtsV.jpg"},
+  {"desc3":"Collaboration is encouraged in "Barvikha RP." Players can form factions, guilds, or political alliances, working together to achieve common goals. These group dynamics add layers of depth to the gameplay as players navigate intricate webs of power and influence.
+
+","photo3":"https://iili.io/HDHwZWQ.jpg"},
+  {"desc4":"The decisions players make in "Barvikha RP" have ethical consequences. Aligning with certain factions or making particular choices can shift a player's moral compass and impact their character's reputation within the city.
+
+","photo4":"https://iili.io/HDHwQzx.jpg"},
+  {"desc5":""Barvikha RP" is designed as a living, evolving world. The development team regularly introduces new content, updates, and events to keep the experience fresh. They also encourage player feedback and involvement, ensuring that the community's voice is heard.
+
+","photo5":"https://iili.io/HDHwsbj.jpg"},
+  {"descd":"Remember, this description is based on speculation and general concepts of role-playing games. If "Barvikha RP" has been released after September 2021, there might be more accurate and detailed information available about its gameplay mechanics and features.
+
+
+
+
+","photod":"https://iili.io/HDHwbqB.jpg"}
    ]
  
 }
