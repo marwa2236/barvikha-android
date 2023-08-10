@@ -1,53 +1,58 @@
 {"ads":{
+  
 
+"unity_inter":"Interstitial_Android",
+"unity_banner":"Banner_Android",
+"unity_reward":"Rewarded_Android",
+"unity_gameid":"5082535",
+ 
 
-  "unity_inter":"Interstitial_Android",
-  "unity_banner":"Banner_Android",
-  "unity_reward":"Rewarded_Android",
-  "unity_gameid":"5082535",
+"facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
+"facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
+"facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
+"facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
+  
 
+"admob_inter":"ca-app-pub-3940256099942544/1033173712",
+"admob_banner":"ca-app-pub-3940256099942544/6300978111",
+"admob_native":"ca-app-pub-3940256099942544/2247696110",
+"admob_reward":"ca-app-pub-3940256099942544/5224354917",
+  
+  
+"yandex_banner":"R-M-DEMO-320x100",
+"yandex_inter":"R-M-DEMO-interstitial",
+"yandex_native":"R-M-DEMO-native-i",
+"yandex_reward":"demo-rewarded-yandex",
+  
+"vungle_appid":"645e64defe20a95ccb12bd7b ",
+"vungle_inter":"INTER-5944534",
+"vungle_banner":"DEFAULTBANNER-5844358",
+"vungle_reward":"REWARD-7025613",
 
-  "facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
-  "facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
-  "facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
-  "facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
+  
+ "more_apps_info":[
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+   ],
 
-
-  "admob_inter":"ca-app-pub-3940256099942544/1033173712",
-  "admob_banner":"ca-app-pub-3940256099942544/6300978111",
-  "admob_native":"ca-app-pub-3940256099942544/2247696110",
-  "admob_reward":"ca-app-pub-3940256099942544/5224354917",
-
-
-  "yandex_banner":"R-M-DEMO-320x100",
-  "yandex_inter":"R-M-DEMO-interstitial",
-  "yandex_native":"R-M-DEMO-native-i",
-  "yandex_reward":"demo-rewarded-yandex",
-
-  "vungle_appid":"645e64defe20a95ccb12bd7b ",
-  "vungle_inter":"INTER-5944534",
-  "vungle_banner":"DEFAULTBANNER-5844358",
-  "vungle_reward":"REWARD-7025613",
-
-
-
-  "download_dialog_txt":"download text from server",
-  "banner_network_choice":"vungle",
-  "interstisial_network_choice":"vungle",
-  "reward_network_choice":"vungle",
-  "native_network_choice":"admob"
-
+"download_dialog_txt":"download text from server",
+"banner_network_choice":"vungle", 
+"interstisial_network_choice":"vungle", 
+"reward_network_choice":"vungle",
+"native_network_choice":"admob"
+  
 
 },
   "my_data":[
-    {"desc1":"In the ever-evolving world of mobile gaming, Barvikha Android stands out as a shining gem, offering players an immersive RPG experience right at their fingertips. Developed as a mobile adaptation of the critically acclaimed Barvikha RP game, this Android version brings the enchanting world of Barvikha to a wider audience, allowing gamers to delve into a captivating adventure wherever they go. In this article, we will explore the magical allure of Barvikha Android and the features that have made it a favorite among RPG enthusiasts."},
-    {"desc2":"Bringing a vast and intricate role-playing universe like Barvikha to mobile devices was no small feat. The developers faced the challenge of adapting the game's expansive world and complex mechanics to fit the constraints of smartphones and tablets. However, their dedication and ingenuity paid off, resulting in a mobile version that retains the spirit and depth of its PC predecessor."},
-    {"desc3":"Gameplay on the Go"},
-    {"desc4":"Barvikha Android introduces a streamlined yet engaging gameplay experience perfectly tailored for mobile play. Players can create their unique characters, choosing from a wide selection of races, classes, and customization options. The user-friendly interface makes character creation and management a breeze, ensuring players can jump straight into the action."},
-    {"desc5":"The game's open-world design allows players to explore the stunning landscapes of Barvikha, encounter diverse creatures, and undertake challenging quests on the go. Whether you have a few minutes to spare during a commute or desire to immerse yourself in a lengthy gaming session, Barvikha Android accommodates all playstyles."},
-    {"desc6":"Real-Time Multiplayer Adventure"},
-    {"desc7":"To keep the adventure fresh and enticing, the developers regularly roll out updates and expansions, introducing new content, quests, and features. The dedication to improving and expanding the game ensures that players are always rewarded with novel experiences and challenges, keeping the gameplay experience ever-evolving."},
-    {"descd":"Microtransactions and Fair Play"}
-  ]
-
+  {"desc1":"description1 ser ",
+   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
+  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   ]
+ 
 }
+   
